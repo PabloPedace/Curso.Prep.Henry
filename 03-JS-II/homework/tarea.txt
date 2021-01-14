@@ -1,0 +1,13 @@
+for: es un bucle que va repitiend diversas instrucciones
+mediante un predeterminado número de veces.
+
+&&: este símbolo examina dos expresiones,
+si las dos son veraderes, devolverá con un booleano "true".
+Si una o ambas expresiones son falsas, devolverá el booleano "false":
+
+||: este símbolo representa que está examinando sin una de las 
+dos expresiones es verdaera. Si una o ambas de las dos expresiones 
+es verdadera, devolverá "true", pero si las dos son falsas  
+devolverá con un booleano "false".
+
+!: este símbolo representa preguntar lo contrario a una determinada expresión.

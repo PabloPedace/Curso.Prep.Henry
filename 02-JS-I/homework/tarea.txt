@@ -1,0 +1,18 @@
+Variables: las variables son formas reunen algún determinado valor
+para utilizarlo después. 
+
+Strings:los strings son cadenas de texto, es decir, son segmentos
+que pueden tener todo tipo de texto. Siempre estarán dentro
+de unas comillas.
+
+Funciones (argumentos, return):una función es area que está dentro del código
+para ejectutar una determinada tarea. Argumentos: un argumento es un medio que 
+integra diversos valores y que esta divido por tres partes: entrada, proceso y salida.
+Return: la funcion return devuelve un valor a la función principal. 
+
+Declaraciones if: es una toma de decisiones, donde el resultado de la expresión
+será verdadero o falso.
+
+Valores booleanos (true, false): los booleanos son valores que van a tener
+solamente dos opciones. Esas dos opciones pueden ser: verdaero o falso,
+1 (verdaero) o 0 (falso).

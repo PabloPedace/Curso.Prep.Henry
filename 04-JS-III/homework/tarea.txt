@@ -1,0 +1,2 @@
+Arrays: un array guarda una serie de datos o elementos. 
+Se guarda entre corchetes [].
